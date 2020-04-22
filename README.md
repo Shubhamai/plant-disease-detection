@@ -35,9 +35,8 @@ To get a local copy up and running follow these simple example steps.
 3. Run ```streamlit run app.py```
 
 ## License
-[![License](https://img.shields.io/badge/License-General_Public_v3.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
-Distributed under the Apache 2.0 License. See `LICENSE` for more information.
+Distributed under the GNU General Public License v3.0. See `LICENSE` for more information.
 
 ## Contact
 [![Generic badge](https://img.shields.io/badge/Need_Help-Contact_ME!-<COLOR>.svg)](https://shields.io/)
