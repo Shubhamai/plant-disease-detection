@@ -1,7 +1,7 @@
 # Plant Disease Detection
 This Website help you to detect disease in your plant🌳 based to the plant's leaf🍃 image
 
-![image](https://github.com/Shubhamai/plant-disease-detection/blob/master/image.JPG)
+![image](https://github.com/Shubhamai/plant-disease-detection/blob/master/image.jpg)
 
 ## Table of Contents
 
