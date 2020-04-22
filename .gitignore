@@ -1,0 +1,4 @@
+.vscode
+__pycache__
+model_weights.h5
+env/
