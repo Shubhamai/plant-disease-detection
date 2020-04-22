@@ -1,4 +1,4 @@
-# Plant Disease Detection
+# Plant Disease Detection [![Open Source Love png3](https://badges.frapsoft.com/os/v3/open-source.png?v=103)](https://github.com/ellerbrock/open-source-badges/)
 This Website help you to detect disease in your plant🌳 based to the plant's leaf🍃 image
 
 ![image](https://github.com/Shubhamai/plant-disease-detection/blob/master/image.jpg)
@@ -19,7 +19,7 @@ This Website help you to detect disease in your plant🌳 based to the plant's l
 
 This Project takes a apple pant leaf image and predicts that is the plant leaf is healthy or not using Machine learning and Computer Vision.
 
-# Built With
+# Built With [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
 * [Python](https://www.python.org/)
 * [Streamlit](https://streamlit.io/)
