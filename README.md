@@ -1,7 +1,7 @@
 # Plant Disease Detection
 This Website help you to detect disease in your plant🌳 based to the plant's leaf🍃 image
 
-![image](https://github.com/Shubhamai/plant-disease-detection/blob/master/image.png)
+![image](https://github.com/Shubhamai/plant-disease-detection/blob/master/image.JPG)
 
 ## Table of Contents
 
@@ -18,7 +18,8 @@ This Project takes a apple pant leaf image and predicts that is the plant leaf i
 
 # Built With
 
-* [ReactJs](https://reactjs.org/)
+* [Python](https://www.python.org/)
+* [Streamlit](https://streamlit.io/)
 
 ## Getting Started
 
@@ -27,9 +28,11 @@ To get a local copy up and running follow these simple example steps.
 
 ### Installation
 
-1. Clone the repo ``git clone https://github.com/Shubhamai/plant-disease-detection```
+1. Clone the repo ```git clone https://github.com/Shubhamai/plant-disease-detection```
 
-2. Run the ```npm start``` command.
+2. Run the ```pip install -r requirements.txt``` command.
+
+3. Run ```streamlit run app.py```
 
 ## License
 [![License](https://img.shields.io/badge/License-General_Public_v3.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
