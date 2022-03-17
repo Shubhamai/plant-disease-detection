@@ -32,10 +32,9 @@ To get a local copy up and running follow these simple example steps.
 ### Installation
 
 1. Clone the repo ```git clone https://github.com/Shubhamai/plant-disease-detection```
-
 2. Run the ```pip install -r requirements.txt``` command.
-
-3. Run ```streamlit run app.py```
+3. Download the [model.h5](https://www.kaggle.com/code/shubhamai/predicting-plant-disease/data?select=model.h5) from my [kaggle notebook](https://www.kaggle.com/code/shubhamai/predicting-plant-disease/) and save it as `model_weights.h5` in the main directory of the repo. 
+4. Run ```streamlit run app.py```
 
 ## License
 
