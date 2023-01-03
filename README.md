@@ -3,7 +3,7 @@ This Website help you to detect disease in your plant🌳 based to the plant's l
 
 ![image](https://github.com/Shubhamai/plant-disease-detection/blob/master/image.jpg)
 
-# The Website is LIVE🔴 [HERE](https://rocky-mountain-81944.herokuapp.com/) !, Check it out
+~The Website is LIVE🔴 [HERE](https://rocky-mountain-81944.herokuapp.com/) !, Check it out~ - [Due to horoku recent removal of free projects, it's no longer available](https://help.heroku.com/RSBRUH58/removal-of-heroku-free-product-plans-faq)
 
 
 ## Table of Contents
