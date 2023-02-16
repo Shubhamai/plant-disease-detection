@@ -93,7 +93,7 @@ validators==0.14.3
 watchdog==0.10.2
 wcwidth==0.1.9
 webencodings==0.5.1
-Werkzeug==1.0.1
+Werkzeug==2.2.3
 widgetsnbextension==3.5.1
 wrapt==1.12.1
 zipp==3.1.0
